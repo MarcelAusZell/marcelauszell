@@ -1,16 +1,18 @@
-## Hi there 👋
+> *(Note: My GitHub is currently under construction as I am in the process of transitioning from GitLab to GitHub.)*
 
-<!--
-**MarcelAusZell/marcelauszell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, my name is Marcel Sayegh  
+I'm from Germany and currently a Computer Science master's student at RWTH Aachen University.  
+My interests lie in Visual Computing, Machine Learning, and (interactive) visualizations (often in combination with one another).
 
-Here are some ideas to get you started:
+## Visit some of my projects  
+#### 🌆 [City Pathfinding Visualizer](https://marcelauszell.github.io/city-pathfinding/)  
+Interactive pathfinding algorithms in a city map environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ✍️ [MNIST Projects](https://marcelauszell.github.io/mnist-projects/)  
+Handwriting recognition demos built with neural networks.
+
+#### 🧠 [Scrollytelling ML (RWTH Medialab)](https://scrollytelling-ml-medialab-e2608723069b047745ff21c2aab2b0bdc3f6.pages.rwth-aachen.de/)  
+An interactive storytelling project explaining machine learning concepts.
+
+## Contact  
+Feel free to reach me at **marcel.sayegh@rwth-aachen.de**
